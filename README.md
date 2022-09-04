@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaasalaBandara
 -  I’m interested in 
-- 1)machine learning
+- 1)machine learning and deep learning
 - 2)programming
 - 3)app development
 - 4)motion graphics
