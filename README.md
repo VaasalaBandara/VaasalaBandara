@@ -4,10 +4,13 @@
 - 2)programming
 - 3)app development
 - 4)motion graphics
-- 🌱 I’m currently learning Industrial Mathematics and Physics at University of Ruhuna Sri Lanka
+- 🌱 I studied Industrial Mathematics and Physics at University of Ruhuna Sri Lanka
+- I am now currently following the special degree in statistics at university of ruhuna
 - 💞️ I’m looking to collaborate on 
 - app development
 - machine learning and deep learning
+
+- My aspiration is to go further in the field of data science and contribute to the field of artificial intelligence
 
 <!---
 VaasalaBandara/VaasalaBandara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
