@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaasalaBandara
-- I'm an entry Data scientist with a background in comprehensive data analysis techniques. I specialize in developing algorithms and models to extract actionable insights from datasets. I have successfully applied statistical methods and machine learning techniques to solve challenging problems. From developing predictive models to uncovering hidden patterns in data. I am passionate about leveraging data-driven approaches to inform strategic decision-making.
-- 🌱 I studied Industrial Mathematics and Physics for my general and am now currently following the special degree in statistics at university of ruhuna
+- Graduate with a background in data science, focused on designing and deploying machine learning algorithms. Experienced in deploying statistical and deep learning techniques to solve real-world problems and with a passion for building intelligent systems that deliver practical impact
+- 🌱 I studied Industrial Mathematics and Physics for my general and followed a special degree in Mathematics and statistics at University of Ruhuna
 - 💞️ I’m looking to collaborate on 
 - Machine learning
 - Data science
